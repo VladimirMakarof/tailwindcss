@@ -26,7 +26,7 @@ This will start the project and open it in your default web browser. You can the
 This project was created as an educational exercise and is not actively maintained. However, if you would like to contribute to the project, feel free to submit a pull request.
 
 # Credits
-This project was created by [your name] as part of [your course or program name]. It uses the following open-source tools:
+This project was created by Vladimir Makarov as part of course from [webDev](https://www.youtube.com/watch?v=rW38WPa4ekA) . It uses the following open-source tools:
 
 * [Tailwind CSS](https://tailwindcss.com)- A utility-first CSS framework for rapidly building custom user interfaces.
 * [Node.js](https://nodejs.org/en/) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
