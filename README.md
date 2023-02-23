@@ -17,7 +17,7 @@ npm install
 To start the project, run the following command:
 
 ```
-npm run start
+npm run build
 ```
 
 This will start the project and open it in your default web browser. You can then navigate through the different pages of the site to see the different features of Tailwind CSS in action.
@@ -32,3 +32,6 @@ This project was created by Vladimir Makarov as part of course from [webDev](htt
 * [Node.js](https://nodejs.org/en/) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 Thank you for checking out my first project using Tailwind CSS!
+
+# Link to the Project
+You can view our project by following this [link](https://vladimirmakarof.github.io/tailwindcss/)
